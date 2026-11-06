@@ -5,6 +5,6 @@ def greet(name):
     return f"你好，{name}！欢迎来到 GitHub。"
 
 if __name__ == "__main__":
-    print(greet("luren95"))
+    print(greet("世界"))
     for i in range(1, 4):
         print(f"这是第 {i} 行输出")
